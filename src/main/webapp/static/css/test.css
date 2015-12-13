@@ -1,0 +1,61 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #e7e7e7;
+    padding: 20px;
+    height: 100%;
+}
+
+.wrapper {
+    margin: 0px auto;
+    width: 946px;
+    position: relative;
+    height: 100%;
+}
+
+.shadow {
+    padding: 2px;
+    background-color: #d5d5d5;
+    border-radius: 2px;
+}
+
+.editor-container {
+    width: 914px;
+    padding: 15px;
+    border: 1px solid #cacaca;
+    background-color: #ffffff;
+}
+
+.overlay {
+    position: fixed;
+    top: 0px;
+    height: 100%;
+}
+
+#editor {
+    width: 852px;
+    position: absolute;
+    top: 20px;
+    bottom: 20px;
+    left: 24px;
+    border: 8px solid rgba(0, 0, 0, 0.5);
+    border-radius: 4px;
+}
+
+#markdown {
+    min-height: 400px;
+}
+
+[contenteditable="true"] {
+    opacity: 0.1;
+    cursor: text;
+    overflow-y: scroll;
+    outline: none;
+}
+
+[contenteditable="true"]:focus {
+    opacity: 1;
+}
+

@@ -1,0 +1,7 @@
+.editor-container {
+    padding: 15px;
+    border: 1px solid #cacaca;
+    background-color: #ffffff;
+    word-wrap: break-word;
+    word-break: normal;
+}
