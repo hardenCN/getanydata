@@ -1,6 +1,10 @@
 # getanydata   [www.getanydata.com](http://www.getanydata.com)
 
+#### 项目刚起步... - -#!
+
 账号/密码:admin/admin
+
+微信公众号:getanydata
 
 
 ### dependency
