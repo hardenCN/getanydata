@@ -429,6 +429,11 @@
 				<artifactId>jetty-maven-plugin</artifactId>
 				<version>${jetty.version}</version>
 				<configuration>
+					<connectors>
+						<connector implementation="org.eclipse.jetty.server.nio.SelectChannelConnector">
+							<port>19007</port>
+						</connector>
+					</connectors>
 					<webAppConfig>
 						<!--设置为空的context-->
 						<contextPath>/</contextPath>
