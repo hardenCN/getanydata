@@ -1,4 +1,4 @@
-# getanydata   [www.getanydata.com](www.getanydata.com)
+# getanydata   [www.getanydata.com](http://www.getanydata.com)
 
 账号/密码:admin/admin
 
