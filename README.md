@@ -1,4 +1,6 @@
-# getanydata
+# getanydata   [www.getanydata.com](www.getanydata.com)
+
+账号/密码:admin/admin
 
 
 ### dependency
