@@ -13,7 +13,7 @@
 		<nav class="top-bar" data-topbar="" role="navigation">
 			<!-- Title -->
 			<ul class="title-area large-push-1">
-				<li class="name"><h1><a href="#" id="title">GetAnyData.com</a></h1></li>
+				<li class="name"><h1><a href="${ctx}" id="title">GetAnyData.com</a></h1></li>
 				<!-- Mobile Menu Toggle -->
 				<li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
 			</ul>

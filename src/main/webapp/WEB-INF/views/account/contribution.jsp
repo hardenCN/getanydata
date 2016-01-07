@@ -36,11 +36,11 @@
             <div class="left">
                 <h3>
                     <img src="${staticPath}/images/icon/http_icon.png" width="40" height="40" alt=""/>
-                    <a href="http://foundation.zurb.com/forum" title="Foundation Forum">
+                    <a href="${ctx}/${user.selfPathName}">
                         <b>${user.selfPathName}</b>
                     </a>
                     /
-                    <a href="http://foundation.zurb.com/forum" title="Foundation Forum">
+                    <a href="${ctx}/${user.selfPathName}/${project.name}">
                         <b>${project.name}</b>
                     </a>
                     <span data-tooltip aria-haspopup="true" class="has-tip" title="含收费项目."><i class="fi-yen"></i></span>
