@@ -14,7 +14,6 @@
 ![12](http://innmall-user-image.b0.upaiyun.com/gad/12.pic.jpg)
 
 
-#### 这是个百年项目!!!
 
 账号/密码:admin/admin
 
