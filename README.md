@@ -1,6 +1,6 @@
-# getanydata   [www.getanydata.com](http://www.getanydata.com)
-
-#### 项目刚起步
+# getanydata   [www.getanydata.com](http://www.getanydata.com)
+#### 貌似区块链和API经济更配哦~
+#### 2015年的春天脑袋短路后的产品思维，没什么技术
 
 ![2](http://www.sydianai.com/images/gad/2.png)
 ![3](http://www.sydianai.com/images/gad/3.png)
