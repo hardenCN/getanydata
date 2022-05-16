@@ -1,24 +1,22 @@
 # getanydata   [www.getanydata.com](http://www.getanydata.com)
-#### 貌似区块链和API经济更配哦~
-#### 2015年的春天脑袋短路后的产品思维，没什么技术
 
-![2](http://www.sydianai.com/images/gad/2.png)
-![3](http://www.sydianai.com/images/gad/3.png)
-![4](http://www.sydianai.com/images/gad/4.png)
-![5](http://www.sydianai.com/images/gad/5.png)
-![6](http://www.sydianai.com/images/gad/6.png)
-![7](http://www.sydianai.com/images/gad/7.pic.jpg)
-![8](http://www.sydianai.com/images/gad/8.pic.jpg)
-![9](http://www.sydianai.com/images/gad/9.pic.jpg)
-![10](http://www.sydianai.com/images/gad/10.pic.jpg)
-![11](http://www.sydianai.com/images/gad/11.pic.jpg)
-![12](http://www.sydianai.com/images/gad/12.pic.jpg)
+![2](https://github.com/hardenCN/k8s-project-docs/raw/main/2.png)
+![3](https://github.com/hardenCN/k8s-project-docs/raw/main/3.png)
+![4](https://github.com/hardenCN/k8s-project-docs/raw/main/4.png)
+![5](https://github.com/hardenCN/k8s-project-docs/raw/main/5.png)
+![6](https://github.com/hardenCN/k8s-project-docs/raw/main/6.png)
+![7](https://github.com/hardenCN/k8s-project-docs/raw/main/7.pic.jpg)
+![8](https://github.com/hardenCN/k8s-project-docs/raw/main/8.pic.jpg)
+![9](https://github.com/hardenCN/k8s-project-docs/raw/main/9.pic.jpg)
+![10](https://github.com/hardenCN/k8s-project-docs/raw/main/10.pic.jpg)
+![11](https://github.com/hardenCN/k8s-project-docs/raw/main/11.pic.jpg)
+![12](https://github.com/hardenCN/k8s-project-docs/raw/main/12.pic.jpg)
 
 
 
 账号/密码:admin/admin
 
-微信公众号:getanydata
+
 
 
 ### dependency
@@ -29,12 +27,5 @@
 ### License
   没有什么License约束.
 
-
-  联系方式:
-
-   ```
-   微信: zdp118
-   邮箱: zdp118@gmail.com
-   ```
 
 
